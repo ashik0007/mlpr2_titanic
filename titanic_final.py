@@ -9,7 +9,7 @@ import numpy as np
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 from sklearn.ensemble import AdaBoostClassifier
-
+from sklearn.metrics import accuracy_score
 
 
 train = pd.read_csv('train.csv')
