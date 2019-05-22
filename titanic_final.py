@@ -10,7 +10,7 @@ import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 from sklearn.ensemble import AdaBoostClassifier
 
-
+#sdsds
 
 train = pd.read_csv('train.csv')
 test = pd.read_csv('test.csv')
